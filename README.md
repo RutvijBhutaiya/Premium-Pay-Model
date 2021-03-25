@@ -5,7 +5,7 @@ This Model calculates the impact on stock returns, with respct to premium pay. A
 
 <p align="center"><img width=75% src=https://user-images.githubusercontent.com/44467789/112466158-8a962b80-8d8b-11eb-9380-e7c0758fb5a9.png> 
                                                               
-                                                        Source: DeLucia CPA
+                                                       Source: DeLucia CPA
 
 <br>
 
@@ -21,7 +21,8 @@ For Example, GPPL (Gujarat Pipavav Port) Disclaimer: I have invested in this com
 <br>
 
 <p align="center"><img width=85% src=https://user-images.githubusercontent.com/44467789/112467297-e7461600-8d8c-11eb-9ffa-6038a752f0b0.png> 
-                                                              Source: Google Finance
+                                                              
+                                                       Source: Google Finance
 
 <br>
 
