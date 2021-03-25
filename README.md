@@ -3,7 +3,7 @@ This Model calculates the impact on stock returns, with respct to premium pay. A
 
 <br>
 
-<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/112466158-8a962b80-8d8b-11eb-9380-e7c0758fb5a9.png> 
+<p align="center"><img width=75% src=https://user-images.githubusercontent.com/44467789/112466158-8a962b80-8d8b-11eb-9380-e7c0758fb5a9.png> 
                                                               Source: DeLucia CPA
 
 <br>
@@ -19,7 +19,7 @@ For Example, GPPL (Gujarat Pipavav Port) Disclaimer: I have invested in this com
 
 <br>
 
-<p align="center"><img width=100% src=https://user-images.githubusercontent.com/44467789/112467297-e7461600-8d8c-11eb-9ffa-6038a752f0b0.png> 
+<p align="center"><img width=85% src=https://user-images.githubusercontent.com/44467789/112467297-e7461600-8d8c-11eb-9ffa-6038a752f0b0.png> 
                                                               Source: Google Finance
 
 <br>
@@ -51,6 +51,6 @@ Result analysis, If one purchases at premium price Rs. 95(current levels), the i
 
 That means, one could have an opportunity of 102% more if onepurchases GPPL with little patience at Rs. 80 per share. 
 
-#### NOTE: Do not follow this model blindly, use logic andexecute accordingly to your research. 
+#### NOTE: Do not follow this model blindly, use logic and execute accordingly to your research. 
 
 
