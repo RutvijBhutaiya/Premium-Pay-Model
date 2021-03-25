@@ -4,7 +4,8 @@ This Model calculates the impact on stock returns, with respct to premium pay. A
 <br>
 
 <p align="center"><img width=75% src=https://user-images.githubusercontent.com/44467789/112466158-8a962b80-8d8b-11eb-9380-e7c0758fb5a9.png> 
-                                                              Source: DeLucia CPA
+                                                              
+                                                        Source: DeLucia CPA
 
 <br>
 
